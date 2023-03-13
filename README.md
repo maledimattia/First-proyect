@@ -1,2 +1,2 @@
 # First-proyect
-My first repository egg
+My first repository / egg
